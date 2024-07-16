@@ -7,4 +7,4 @@ minikube stop --profile polar
 
 minikube delete --profile polar
 
-echo "\n🏴️ Cluster destroyed\n"
+echo "\n🏴️ Cluster destroyed \n"
